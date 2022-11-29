@@ -592,3 +592,59 @@ body{
     line-height: 26px;
     color: rgba(255, 255, 255, 0.75);
 }
+
+#caixa3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 1194px;
+    top: 780px;
+    background: #124851;
+    border: 1px solid #FEC85B;
+    border-radius: 32px;
+}
+
+#global{
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 31px;
+    top: 31px;
+}
+
+#Star4{
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 1336px;
+    top: 778px;
+}
+
+#tituloCaixa3{
+    position: absolute;
+    width: 116px;
+    height: 30px;
+    left: 1336px;
+    top: 831px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+#subtituloCaixa3{
+    position: absolute;
+    width: 98px;
+    height: 26px;
+    left: 1336px;
+    top: 862px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 0.75);
+}
