@@ -424,3 +424,45 @@ body{
     left: 1426px;
     top: 290px;
 }
+
+#caixa{
+    box-sizing: border-box;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 147px;
+    top: 785px;
+    background: #124851;
+    border: 1px solid #F49A50;
+    border-radius: 32px;
+}
+
+#coroa{
+    position: absolute;
+    width: 46px;
+    height: 37px;
+    left: 27px;
+    top: 32px;
+}
+
+#star1{
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 287px;
+    top: 775px;
+}
+
+#tituloCaixa{
+    position: absolute;
+    width: 187px;
+    height: 30px;
+    left: 287px;
+    top: 828px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
