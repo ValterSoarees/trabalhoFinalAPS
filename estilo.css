@@ -331,3 +331,88 @@ body{
     top: 25px;
     bottom: 75px
 }
+
+#caboPlantas{
+    position: absolute;
+    width: 217.18px;
+    height: 204.5px;
+    left: 37.67px;
+    top: 20px;
+}
+
+#bolinhaEscura{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 45px;
+    top: 79px;
+}
+
+#bolinhaEscura1{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 131px;
+    top: 70px;
+}
+
+#bolinhaEscura2{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 177px;
+    top: 91px;
+}
+
+#bolinhaEscura3{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 252px;
+    top: 53px;
+}
+
+#bolinhaEscura4{
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 186px;
+    top: 16px;
+}
+
+#creditCard1{
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left: 26px;
+    top: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#numeroCartao1{
+    position: absolute;
+    width: 230px;
+    height: 18px;
+    left: 26px;
+    top: 68px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    word-spacing: 15px;
+}
+
+#logoMaster{
+    position: absolute;
+    left: 222px;
+    right: 26px;
+    top: 25px;
+    bottom: 75px;
+}
