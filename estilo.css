@@ -1,0 +1,202 @@
+#platform{
+    position: absolute;
+    width: 78px;
+    height: 22px;
+    left: 544px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+#resources{
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 699px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;    
+}
+
+#prticing{
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 989px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+#company{
+    position: absolute;
+    width: 84px;
+    height: 22px;
+    left: 847px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+#backgroundLinguagem{
+    position: absolute;
+    width: 107px;
+    height: 49px;
+    left: 1346px;
+    top: 25px;
+    background: #2B666C;
+    border-radius: 24.5px;
+}
+
+#bandeiraLingua{
+    position: absolute;
+    width: 29px;
+    height: 29px;
+    left: 8px;
+    top: 10px;
+}
+
+#linguagemUSA{
+    position: absolute;
+    width: 35px;
+    height: 19px;
+    left: 42px;
+    top: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+#meiaLua{
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 147px;
+    top: 44.72px;
+}
+
+#textoLogo{
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    top: 40px;
+    left: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#bolinhaLogo{
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 149px;
+    top: 37px;
+}
+
+#perfilUsuario{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1308px;
+    top: 37px;
+}
+
+#card1{
+    position: absolute;
+    width: 285px;
+    height: 336px;
+    left: 839px;
+    top: 226px;
+    background: #FEC85B;
+    border-radius: 10px;
+}
+
+#bordaInfos{
+    position: absolute;
+    width: 285px;
+    height: 112px;
+    left: 839px;
+    top: 450px;
+    background: #092C2E;
+    border-radius: 6px;
+}
+
+#bambu1{
+    position: absolute;
+    width: 37px;
+    height: 163px;
+    left: 34px;
+    top: 68px;
+}
+
+#bambu2{
+    position: absolute;
+    width: 152.5px;
+    height: 217.5px;
+    left: 98px;
+    top: 13px;
+}
+
+#creditCard{
+    position: absolute;
+    width: 89px;
+    height: 18px;
+    left: 26px;
+    top: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#numeroCartao{
+    position: absolute;
+    width: 230px;
+    height: 18px;
+    left: 26px;
+    top: 68px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    word-spacing: 15px;
+}
+
+#card2{
+    position: absolute;
+    width: 285px;
+    height: 336px;
+    left: 1168px;
+    top: 339px;
+    background: #FF925A;
+    border-radius: 10px;
+}
+
+#bordaInfos2{
+    position: absolute;
+    width: 285px;
+    height: 112px;
+    left: 1168px;
+    top: 563px;
+    background: #092C2E;
+    border-radius: 6px;
+}
+
+#logoVisa{
+    position: absolute;
+    left: 222px;
+    right: 26px;
+    top: 25px;
+    bottom: 75px;
+}
